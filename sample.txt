@@ -1,2 +1,2 @@
 Hi this is my first git project
-
+modefied second line in new project
